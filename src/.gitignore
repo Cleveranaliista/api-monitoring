@@ -1,0 +1,14 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Diretórios do node.js
+node_modules/
+
+# Diretório do prisma
+prisma/migrations/
+
+# Docker
+docker-compose.override.yml
+.env
